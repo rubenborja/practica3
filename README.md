@@ -1,4 +1,4 @@
-# practica 3
+# practica 3 - Jaime Rubén Borja Ulloa
 Redes neuronales Learning.
 
 Librerías utilizadas para esta práctica:
